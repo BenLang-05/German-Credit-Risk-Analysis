@@ -25,7 +25,7 @@ The analysis includes exploratory data analysis, visualisation of key attributes
 
 ## Project Structure
 The main analysis notebook can be found in:
-<br>German_Credit_Risk_Analysis.ipynb
+<br>German_Credit_Data.ipynb
 
 ## Notes
 This repository is intended to showcase data analysis and data anonymisation techniques using Python. 
